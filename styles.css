@@ -1,0 +1,9 @@
+#container div{
+    display: flex;
+    border: black;
+}
+
+#squares div{
+    display: flex;
+    border: blue;
+}
